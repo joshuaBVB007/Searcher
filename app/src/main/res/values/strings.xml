@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Searcher</string>
+
+    <string-array name="Paises">
+        <item>Noruega</item>
+        <item>Brasil</item>
+        <item>España</item>
+        <item>Holanda</item>
+        <item>Alemania</item>
+        <item>Argentina</item>
+        <item>Estados Unidos</item>
+        <item>El salvador</item>
+        <item>China</item>
+    </string-array>
+</resources>
